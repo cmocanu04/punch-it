@@ -1,0 +1,173 @@
+{
+    "crochet": {
+        "Min_AccX_Val": {
+            "min_ideal": -3.6967,
+            "max_ideal": -1.23,
+            "moyenne": -2.4634
+        },
+        "Max_AccX_Val": {
+            "min_ideal": -0.6922,
+            "max_ideal": 0.9839,
+            "moyenne": 0.1459
+        },
+        "AccX_Amplitude": {
+            "min_ideal": 0.668,
+            "max_ideal": 4.5504,
+            "moyenne": 2.6092
+        },
+        "AccX_Ord(1=Max>Min)": {
+            "min_ideal": 0.0,
+            "max_ideal": 1.0379,
+            "moyenne": 0.3279
+        },
+        "Min_AccZ_Val": {
+            "min_ideal": -1.441,
+            "max_ideal": 0.1896,
+            "moyenne": -0.6257
+        },
+        "Max_Roll_Val": {
+            "min_ideal": 5.809,
+            "max_ideal": 206.808,
+            "moyenne": 106.3085
+        },
+        "Min_Roll_Val": {
+            "min_ideal": -281.6095,
+            "max_ideal": -128.4786,
+            "moyenne": -205.044
+        },
+        "Roll_Ord(1=Max>Min)": {
+            "min_ideal": 0.0,
+            "max_ideal": 0.0,
+            "moyenne": 0.0
+        },
+        "Max_Pitch_Val": {
+            "min_ideal": 25.2957,
+            "max_ideal": 130.0091,
+            "moyenne": 77.6524
+        },
+        "Min_Pitch_Val": {
+            "min_ideal": -375.6063,
+            "max_ideal": -160.1999,
+            "moyenne": -267.9031
+        },
+        "Pitch_Ord(1=Max>Min)": {
+            "min_ideal": 0.0,
+            "max_ideal": 0.0,
+            "moyenne": 0.0
+        }
+    },
+    "uppercut": {
+        "Min_AccX_Val": {
+            "min_ideal": -2.9045,
+            "max_ideal": -1.5685,
+            "moyenne": -2.2365
+        },
+        "Max_AccX_Val": {
+            "min_ideal": -0.1823,
+            "max_ideal": 1.3359,
+            "moyenne": 0.5768
+        },
+        "AccX_Amplitude": {
+            "min_ideal": 1.5383,
+            "max_ideal": 4.0883,
+            "moyenne": 2.8133
+        },
+        "AccX_Ord(1=Max>Min)": {
+            "min_ideal": 1.0,
+            "max_ideal": 1.0,
+            "moyenne": 1.0
+        },
+        "Min_AccZ_Val": {
+            "min_ideal": -4.5429,
+            "max_ideal": -1.8299,
+            "moyenne": -3.1864
+        },
+        "Max_Roll_Val": {
+            "min_ideal": 42.9429,
+            "max_ideal": 153.4103,
+            "moyenne": 98.1766
+        },
+        "Min_Roll_Val": {
+            "min_ideal": -275.4779,
+            "max_ideal": -118.8885,
+            "moyenne": -197.1832
+        },
+        "Roll_Ord(1=Max>Min)": {
+            "min_ideal": -0.2382,
+            "max_ideal": 0.3049,
+            "moyenne": 0.0333
+        },
+        "Max_Pitch_Val": {
+            "min_ideal": 314.1007,
+            "max_ideal": 569.3165,
+            "moyenne": 441.7086
+        },
+        "Min_Pitch_Val": {
+            "min_ideal": -282.8868,
+            "max_ideal": -102.7504,
+            "moyenne": -192.8186
+        },
+        "Pitch_Ord(1=Max>Min)": {
+            "min_ideal": 1.0,
+            "max_ideal": 1.0,
+            "moyenne": 1.0
+        }
+    },
+    "direct": {
+        "Min_AccX_Val": {
+            "min_ideal": -0.557,
+            "max_ideal": -0.0948,
+            "moyenne": -0.3259
+        },
+        "Max_AccX_Val": {
+            "min_ideal": 0.4054,
+            "max_ideal": 1.5572,
+            "moyenne": 0.9813
+        },
+        "AccX_Amplitude": {
+            "min_ideal": 0.7699,
+            "max_ideal": 1.8444,
+            "moyenne": 1.3072
+        },
+        "AccX_Ord(1=Max>Min)": {
+            "min_ideal": 0.0,
+            "max_ideal": 0.0,
+            "moyenne": 0.0
+        },
+        "Min_AccZ_Val": {
+            "min_ideal": -1.4636,
+            "max_ideal": -0.5893,
+            "moyenne": -1.0264
+        },
+        "Max_Roll_Val": {
+            "min_ideal": 71.4229,
+            "max_ideal": 156.2223,
+            "moyenne": 113.8226
+        },
+        "Min_Roll_Val": {
+            "min_ideal": -326.2594,
+            "max_ideal": -213.0505,
+            "moyenne": -269.6549
+        },
+        "Roll_Ord(1=Max>Min)": {
+            "min_ideal": 0.0,
+            "max_ideal": 0.0,
+            "moyenne": 0.0
+        },
+        "Max_Pitch_Val": {
+            "min_ideal": 87.9031,
+            "max_ideal": 161.3104,
+            "moyenne": 124.6067
+        },
+        "Min_Pitch_Val": {
+            "min_ideal": -301.8466,
+            "max_ideal": -168.536,
+            "moyenne": -235.1913
+        },
+        "Pitch_Ord(1=Max>Min)": {
+            "min_ideal": 0.0,
+            "max_ideal": 0.0,
+            "moyenne": 0.0
+        }
+    }
+}
