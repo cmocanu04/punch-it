@@ -111,6 +111,27 @@ Ce fichier **contient les informations sensibles nécessaires à la connexion à
 
 ---
 
+### 5. `appli_box.py`
+
+#### Résumé général du fichier
+Ce script est l'application principale et centralisée du projet. Il fusionne les fonctionnalités de serveur_principal.py et du traçage en temps réel dans une unique interface graphique construite avec Tkinter. 
+
+#### Fonctions et logiques clés
+
+* **Architecture Multithread et Communication par Queue**
+    * Le script utilise deux threads principaux : le thread principal gère l'interface graphique Tkinter pour qu'elle reste réactive, tandis qu'un thread d'arrière-plan (ServerThread) s'occupe de toutes les opérations réseau (écoute et réception des données) et du traitement lourd.
+
+* **Interface Graphique Double-Fenêtre (Tkinter)**
+    * Fenêtre de tracé en temps réel : Une fenêtre Toplevel intègre des graphiques Matplotlib à l'aide de FigureCanvasTkAgg. Une matplotlib.animation.FuncAnimation met à jour les courbes.
+
+#### Dépendances externes
+
+* **`mtkinter`**: Framework de base pour l'interface graphique.
+* **`matplotlib`**: Pour la visualisation des données et l'intégration des graphiques dans Tkinter.
+* **`threading, socket, queue`**: Pour le multithreading, la communication réseau et la communication inter-threads.
+* **`pandas, numpy, csv`**: Manipulation et stockage des données.
+
+
 
 ## Fichiers Jupyter Notebook
 
